@@ -177,6 +177,7 @@ It makes it easier for new people to find this repository.
 - [Iconfinder](https://www.iconfinder.com)
 - [Material Icons](https://fonts.google.com/icons)
 - [Simple Icons](https://simpleicons.org/)
+- [UseAnimations](https://useanimations.com/)
 
 ### Illustrations
 
