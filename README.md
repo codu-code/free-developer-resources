@@ -260,6 +260,7 @@ It makes it easier for new people to find this repository.
 
 ### Optimization
 
+- [Birme](https://www.birme.net/) - Bulk image resizer
 - [Minify](http://minifier.org) - Code minifier
 - [tinypng](https://tinypng.com/) - Image compression
 - [Compressor](https://compressor.io/) - Image compression
