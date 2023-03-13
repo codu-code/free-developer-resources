@@ -62,12 +62,12 @@ It makes it easier for new people to find this repository.
 
 ## APIs
 
-- [PrestoAPI](https://prestoapi.com/) - API Builder
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/)
 - [OpenWeather](https://openweathermap.org/guide)
+- [Public API List](https://github.com/public-apis/public-apis)
 - [The Star Wars API](https://swapi.dev/)
 - [They Said So Quotes API](http://quotes.rest/)
-- [Public API List](https://github.com/public-apis/public-apis)
+
 
 ## Blog
 
