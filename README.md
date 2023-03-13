@@ -68,7 +68,6 @@ It makes it easier for new people to find this repository.
 - [The Star Wars API](https://swapi.dev/)
 - [They Said So Quotes API](http://quotes.rest/)
 
-
 ## Blog
 
 - [Catalin Pit](https://catalins.tech/)
@@ -81,6 +80,7 @@ It makes it easier for new people to find this repository.
 
 ## Books
 
+- [Automate The Boring Stuff With Python (2nd edition)](https://automatetheboringstuff.com/2e/chapter0/)
 - [Eloquent JavaScript (3rd Edition)](https://eloquentjavascript.net/)
 - [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
@@ -228,6 +228,7 @@ It makes it easier for new people to find this repository.
 
 ### Chrome Extensions
 
+- [WAVE Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)
 - [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
 - [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=en)
 - [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?ref=designrevision.com)
