@@ -93,6 +93,7 @@ It makes it easier for new people to find this repository.
 
 - [freeCodeCamp.org](https://freecodecamp.org)
 - [JavaScript 30](https://javascript30.com/)
+- [Test Automation University](https://testautomationu.applitools.com/)
 
 ## CSS
 
