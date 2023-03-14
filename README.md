@@ -93,6 +93,7 @@ It makes it easier for new people to find this repository.
 
 - [freeCodeCamp.org](https://freecodecamp.org)
 - [JavaScript 30](https://javascript30.com/)
+- [Python Essentials 1 (Beginner)](https://edube.org/study/pe1)
 - [Test Automation University](https://testautomationu.applitools.com/)
 - [edX](https://www.edx.org/)
 
