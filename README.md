@@ -95,6 +95,7 @@ It makes it easier for new people to find this repository.
 - [JavaScript 30](https://javascript30.com/)
 - [Test Automation University](https://testautomationu.applitools.com/)
 - [edX](https://www.edx.org/)
+- [Scrimba](https://scrimba.com/)
 
 ## CSS
 
