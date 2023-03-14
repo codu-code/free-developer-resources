@@ -312,6 +312,7 @@ It makes it easier for new people to find this repository.
 - [Frontend Mentor](https://www.frontendmentor.io/)
 - [CodeWars](https://www.codewars.com/)
 - [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
+- [SQLBolt] https://sqlbolt.com/
 
 ## YouTube Channels
 
