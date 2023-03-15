@@ -67,6 +67,7 @@ It makes it easier for new people to find this repository.
 - [Public API List](https://github.com/public-apis/public-apis)
 - [The Star Wars API](https://swapi.dev/)
 - [They Said So Quotes API](http://quotes.rest/)
+- [The OMDb API is a RESTful web service to obtain movie information](http://www.omdbapi.com/)
 
 ## Blog
 
