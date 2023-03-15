@@ -263,6 +263,7 @@ It makes it easier for new people to find this repository.
 - [Netlify](https://www.netlify.com/)
 - [Surge](https://surge.sh/)
 - [Vercel](https://vercel.com/)
+- [Render](https://render.com/docs/free)
 
 ### Optimization
 
