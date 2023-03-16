@@ -63,6 +63,7 @@ It makes it easier for new people to find this repository.
 ## APIs
 
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/)
+- [Open Trivia Database](https://opentdb.com/)
 - [OpenWeather](https://openweathermap.org/guide)
 - [Public API List](https://github.com/public-apis/public-apis)
 - [The Star Wars API](https://swapi.dev/)
