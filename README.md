@@ -69,6 +69,7 @@ It makes it easier for new people to find this repository.
 - [They Said So Quotes API](http://quotes.rest/)
 - [The OMDb API is a RESTful web service to obtain movie information](http://www.omdbapi.com/)
 - [Random Data API](https://random-data-api.com/documentation)
+- [REST Countries](https://restcountries.com/)
 
 ## Blog
 
