@@ -144,6 +144,7 @@ It makes it easier for new people to find this repository.
 - [HarperDB](https://harperdb.io/)
 - [MongoDB](https://www.mongodb.com/)
 - [Supabase](https://supabase.com/)
+- [ElephantSQL](https://www.elephantsql.com/)
 
 ## Design
 
