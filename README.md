@@ -254,6 +254,7 @@ It makes it easier for new people to find this repository.
 
 ### Generators
 
+- [Django Secret Key Generator](https://miniwebtool.com/django-secret-key-generator/)
 - [mockaroo](https://mockaroo.com/) - Data Generator
 - [JSON Generator](https://next.json-generator.com/) - Data Generator
 - [Favicon Generator](https://realfavicongenerator.net/)
