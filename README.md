@@ -167,6 +167,7 @@ It makes it easier for new people to find this repository.
 
 - [ColorAndFonts](https://www.colorsandfonts.com/)
 - [Font Flipper](https://fontflipper.com/)
+- [Fontjoy](https://fontjoy.com/)
 - [Google Fonts](https://fonts.google.com)
 - [FontPair](https://fontpair.co/)
 - [FontSpark](https://fontspark.app/)
