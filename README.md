@@ -149,6 +149,11 @@ It makes it easier for new people to find this repository.
 
 ## Design
 
+### Audio
+
+- [Audio Micro](https://www.audiomicro.com/free-sound-effects/) - Royalty Free audio & sound effects
+- [Zapsplat](https://www.zapsplat.com/) - Royalty Free music tracks & sound effects
+
 ### Colors
 
 - [Stylify Me](http://stylifyme.com) - Get Color Palette from Websites
