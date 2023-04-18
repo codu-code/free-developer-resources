@@ -156,17 +156,18 @@ It makes it easier for new people to find this repository.
 
 ### Colors
 
+- [0to255](https://www.0to255.com/)
+- [Adobe Color Wheel](https://color.adobe.com/create/color-wheel)
+- [Colordot by Hail Pixel](https://color.hailpixel.com/)
+- [Colormind.io](http://colormind.io/)
+- [Colors.lol](https://colors.lol/)
+- [Coolors](https://coolors.co/)
+- [Colorsandfonts](https://www.colorsandfonts.com/)
+- [Flatuicolors](https://flatuicolors.com/)
+- [Huemint](https://huemint.com/) - Utilises machine learning to create unique colour schemes.
+- [Mycolor.space](https://mycolor.space/)
+- [Paletton](https://paletton.com/)
 - [Stylify Me](http://stylifyme.com) - Get Color Palette from Websites
-- [https://color.hailpixel.com/](https://color.hailpixel.com/)
-- [https://paletton.com/](https://paletton.com/)
-- [https://color.adobe.com/create/color-wheel](https://color.adobe.com/create/color-wheel)
-- [https://flatuicolors.com/](https://flatuicolors.com/)
-- [https://www.0to255.com/](https://www.0to255.com/)
-- [https://coolors.co/](https://coolors.co/)
-- [https://www.colorsandfonts.com/](https://www.colorsandfonts.com/)
-- [https://mycolor.space/](https://mycolor.space/)
-- [https://colors.lol/](https://colors.lol/)
-- [http://colormind.io/](http://colormind.io/)
 
 ### Fonts
 
