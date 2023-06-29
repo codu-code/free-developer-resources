@@ -1,4 +1,4 @@
-# Contributing guidelines
+# Contributing guidelines.
 
 - Please only include **one item** per Pull Request.
 - Only include resources that are **free** or have a generous **free tier**.
