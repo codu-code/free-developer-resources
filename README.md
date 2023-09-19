@@ -79,8 +79,12 @@ It makes it easier for new people to find this repository.
 - [CSS Tricks](https://css-tricks.com/)
 - [Dev.to](https://dev.to/)
 - [Flavio Copes](https://flaviocopes.com/)
+- [Netflix Tech Blog](https://netflixtechblog.com)
+- [Pinterest Engineering](https://medium.com/pinterest-engineering)
 - [Scotch.io](https://scotch.io)
 - [Smashing Magazine](https://www.smashingmagazine.com/articles/)
+- [Spotify Engineering](https://engineering.atspotify.com)
+- [The Pragmatic Engineer](https://blog.pragmaticengineer.com)
 
 ## Books
 
@@ -322,6 +326,7 @@ It makes it easier for new people to find this repository.
 - [Full Stack Radio](https://fullstackradio.com/)
 - [JS Party](https://changelog.com/jsparty)
 - [Ladybug](https://www.ladybug.dev/)
+- [Software Engineering Radio](https://www.se-radio.net)
 - [Syntax.fm](https://syntax.fm)
 
 ## Practice
