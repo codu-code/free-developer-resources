@@ -364,6 +364,7 @@ General web development knowledge.
 - [James Perkins](https://www.youtube.com/channel/UC-zet8Eyyy-OUE_fmocp3Wg)
 - [James Q Quick](https://www.youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw)
 - [JavaScript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
+- [Josh tried Coding](https://www.youtube.com/@joshtriedcoding)
 - [Lama Dev](https://www.youtube.com/@LamaDev)
 - [Leigh Halliday](https://www.youtube.com/channel/UCWPY8W-FAZ2HdDiJp2RC_sQ)
 - [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
