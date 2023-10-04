@@ -328,6 +328,7 @@ It makes it easier for new people to find this repository.
 - [Ladybug](https://www.ladybug.dev/)
 - [Software Engineering Radio](https://www.se-radio.net)
 - [Syntax.fm](https://syntax.fm)
+- [The Scrimba Podcast](https://scrimba.com/podcast/)
 
 ## Practice
 
