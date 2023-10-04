@@ -387,6 +387,7 @@ It makes it easier for new people to find this repository.
 | [Full Stack Radio](https://fullstackradio.com/) | A podcast for developers interested in building great software products. Hosted by Adam Wathan. |
 | [JS Party](https://changelog.com/jsparty) | Welcome to JS Party, a weekly celebration of JavaScript and the web |
 | [Ladybug Podcast](https://www.ladybug.dev/) | We’re debugging the tech industry. |
+| [The Scrimba Podcast](https://scrimba.com/podcast/) | A weekly pod about learning to code and how to get your first junior developer job |
 | [Software Engineering Radio](https://www.se-radio.net) | The Podcast for Professional Software Developers |
 | [Syntax.fm](https://syntax.fm) | A tasty treats podcast for Web Developers |
 
