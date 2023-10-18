@@ -383,6 +383,7 @@ It makes it easier for new people to find this repository.
 
 | Resource | Description |
 | :--- | :--- |
+| [Developer Tea](https://developertea.com/) | A podcast by Jonathan Cutrell, empowering developers to discover their purpose, excel at work, and create a positive impact. |
 | [Front End Happy Hour](https://frontendhappyhour.com/) | A software engineering podcast featuring a panel of Software Engineers from Netflix, Twitch, & Atlassian talking over drinks about Frontend, JavaScript, and career development. |
 | [Full Stack Radio](https://fullstackradio.com/) | A podcast for developers interested in building great software products. Hosted by Adam Wathan. |
 | [JS Party](https://changelog.com/jsparty) | Welcome to JS Party, a weekly celebration of JavaScript and the web |
