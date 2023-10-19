@@ -330,6 +330,7 @@ It makes it easier for new people to find this repository.
 | [Surge](https://surge.sh/) | Static web publishing for front-end developers |
 | [Vercel](https://vercel.com/) | We enable developers to build and publish wonderful things. We build products for developers and designers. And those who aspire to become one. |
 | [Render](https://render.com/docs/free) | The fastest way to host all your code, API, cron jobs, web apps, databases... |
+| [Kinsta](https://kinsta.com/static-site-hosting/) | Deploy up to 100 static sites for free, custom domains with SSL, 100 GB monthly bandwidth, 260+ Cloudflare CDN locations. |
 
 ### Optimization
 
