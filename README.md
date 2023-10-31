@@ -401,6 +401,7 @@ It makes it easier for new people to find this repository.
 | [CodeWars](https://www.codewars.com/) | Train code problems |
 | [30 Day Vanilla JS Coding Challenge](https://javascript30.com/) | 30 day vanilla JS coding challenge |
 | [SQLBolt](https://sqlbolt.com/) | A series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser. |
+| [iCodeThis](https://icodethis.com/) | Daily projects you can build to improve your coding skills! |
 
 ## YouTube Channels
 
