@@ -451,6 +451,7 @@ It makes it easier for new people to find this repository.
 | [Coder Coder](https://www.youtube.com/thecodercoder) | Practical tips for the beginner web developer. |
 | [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow) | Learn UI/UX and CSS with my custom interactive courses |
 | [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw) | Helping you learn how to make the web, and make it look good while you're at it. |
+| [ColorCode](https://www.youtube.com/@ColorCodeio/) | Coding Tutorials for regular people! |
 
 ### Career YT
 
