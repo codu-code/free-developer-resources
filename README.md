@@ -362,6 +362,7 @@ It makes it easier for new people to find this repository.
 | :--- | :--- |
 | [Notion](https://www.notion.so/product) | Notion is the connected workspace where better, faster work happens. Now with AI  |
 | [Trello](https://trello.com/) | Trello brings all your tasks, teammates, and tools together |
+| [PerfectBugReport.io](https://www.perfectbugreport.io/) | A simple checklist of essential items to include in bug reports. |
 
 ### Validation
 
