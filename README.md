@@ -404,6 +404,7 @@ It makes it easier for new people to find this repository.
 | [30 Day Vanilla JS Coding Challenge](https://javascript30.com/) | 30 day vanilla JS coding challenge |
 | [SQLBolt](https://sqlbolt.com/) | A series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser. |
 | [iCodeThis](https://icodethis.com/) | Daily projects you can build to improve your coding skills! |
+| [SQL ZOO](https://sqlzoo.net/wiki/SQL_Tutorial)                 | SQLZoo is an interactive online learning platform that offers tutorials and exercises on SQL queries and database management, helping users improve their SQL skills. |
 
 ## YouTube Channels
 
