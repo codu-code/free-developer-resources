@@ -63,6 +63,7 @@ It makes it easier for new people to find this repository.
 | :--- | :--- |
 | [Accessibility Cheat-sheet](https://moritzgiessmann.de/accessibility-cheatsheet/) | Practical approaches to Universal Design for making your website/webapp accessible to everyone |
 | [Color Contrast Accessibility Validator](https://color.a11y.com/) | Color Contrast Accessibility Validator |
+| [WAI Tutorials](https://www.w3.org/WAI/design-develop/) | Guidance for writing, designing, and developing for accessiblity |
 
 ## APIs
 
