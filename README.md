@@ -233,6 +233,7 @@ It makes it easier for new people to find this repository.
 | [Material Icons](https://fonts.google.com/icons) | Material Symbols are our newest icons consolidating over 3,062 glyphs in a single font file with a wide range of design variants. Symbols are available in three styles and four adjustable variable font styles (fill, weight, grade, and optical size). |
 | [Simple Icons](https://simpleicons.org/) | 2734 Free SVG icons for popular brands |
 | [UseAnimations](https://useanimations.com/) | Animated icons in Lottie Framework for immediate implementation to your apps or websites. |
+| [Lucide](https://lucide.dev/) | Beautiful & consistent icon toolkit made by the community. |   
 
 ### Illustrations
 
