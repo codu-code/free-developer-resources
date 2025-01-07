@@ -398,6 +398,7 @@ It makes it easier for new people to find this repository.
 | [The Scrimba Podcast](https://scrimba.com/podcast/) | A weekly pod about learning to code and how to get your first junior developer job |
 | [Software Engineering Radio](https://www.se-radio.net) | The Podcast for Professional Software Developers |
 | [Syntax.fm](https://syntax.fm) | A tasty treats podcast for Web Developers |
+| [How to Program with Java Podcast](https://howtoprogramwithjava.libsyn.com/) | Learn how to program using the Java programming language |
 
 ## Practice
 
