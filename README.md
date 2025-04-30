@@ -119,7 +119,7 @@ It makes it easier for new people to find this repository.
 | [JavaScript 30](https://javascript30.com/) | 30 days vanilla JS coding challenge |
 | [The Odin Project](https://www.theodinproject.com/) | Free full stack curriculum supported by a passionate open source community. |
 | [Python Essentials 1 (Beginner)](https://edube.org/study/pe1) | This course is the first in a 2-course series that will prepare you for the PCEP - Certified Entry-Level Python Programmer and PCAP: Certified Associate in Python Programming certification exams. |
-| [Udemy] (https://www.udemy.com) | Learn or teach on udemy.com |
+| [Udemy](https://www.udemy.com) | Learn or teach on udemy.com |
 | [Test Automation University](https://testautomationu.applitools.com/) | Become a test automation superstar - Free! |
 | [edX](https://www.edx.org/) | Fuel your ambition - explore 4000+ courses |
 | [Scrimba](https://scrimba.com/) | Frontend career path helps motivated students become hireable developers for the fraction of the cost of a bootcamp |
