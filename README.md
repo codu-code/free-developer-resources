@@ -115,6 +115,7 @@ It makes it easier for new people to find this repository.
 
 | Resource | Description |
 | :--- | :--- |
+| [edX](https://www.edx.org/) | Fuel your ambition - explore 4000+ courses |
 | [freeCodeCamp.org](https://freecodecamp.org) | Learn to code for free - build projects - earn certifications. |
 | [JavaScript 30](https://javascript30.com/) | 30 days vanilla JS coding challenge |
 | [The Odin Project](https://www.theodinproject.com/) | Free full stack curriculum supported by a passionate open source community. |
@@ -123,6 +124,9 @@ It makes it easier for new people to find this repository.
 | [Test Automation University](https://testautomationu.applitools.com/) | Become a test automation superstar - Free! |
 | [edX](https://www.edx.org/) | Fuel your ambition - explore 4000+ courses |
 | [Scrimba](https://scrimba.com/) | Frontend career path helps motivated students become hireable developers for the fraction of the cost of a bootcamp |
+| [Test Automation University](https://testautomationu.applitools.com/) | Become a test automation superstar - Free! |
+| [Udemy] (https://www.udemy.com) | Learn or teach on udemy.com |
+| [w3schools] (https://www.w3schools.com) | Learn to Code |
 
 ## CSS
 
