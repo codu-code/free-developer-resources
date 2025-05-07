@@ -125,8 +125,8 @@ It makes it easier for new people to find this repository.
 | [edX](https://www.edx.org/) | Fuel your ambition - explore 4000+ courses |
 | [Scrimba](https://scrimba.com/) | Frontend career path helps motivated students become hireable developers for the fraction of the cost of a bootcamp |
 | [Test Automation University](https://testautomationu.applitools.com/) | Become a test automation superstar - Free! |
-| [Udemy] (https://www.udemy.com) | Learn or teach on udemy.com |
-| [w3schools] (https://www.w3schools.com) | Learn to Code |
+| [Udemy](https://www.udemy.com) | Learn or teach on udemy.com |
+| [w3schools](https://www.w3schools.com) | Learn to Code |
 
 ## CSS
 
