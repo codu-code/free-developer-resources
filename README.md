@@ -255,10 +255,10 @@ It makes it easier for new people to find this repository.
 
 | Resource | Description |
 | :--- | :--- |
-| [Websitevice](https://websitevice.com/) | Discover real-world website designs for modern UI and UX inspiration |
 | [Awwwards](https://www.awwwards.com/) | The awards that recognize the talent and effort of the best web designers, developers and agencies in the world. |
 | [Behance](https://www.behance.net/) | Search the creative world at work |
 | [Dribbble](https://dribbble.com/) | Connect with a community of millions of top-rated designers & agencies around the world. |
+| [Websitevice](https://websitevice.com/) | Discover real-world website designs for modern UI and UX inspiration |
 
 ### Patterns
 
