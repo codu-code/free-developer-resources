@@ -449,6 +449,7 @@ It makes it easier for new people to find this repository.
 | [Josh tried Coding](https://www.youtube.com/@joshtriedcoding) | Hi. I'm Josh and my goal is to have fun creating stuff and sharing that here on youtube. It's nice to have you here! |
 | [Lama Dev](https://www.youtube.com/@LamaDev) | Web development tutorials for everyone. Learn JavaScript, React.js, Node.js, and find inspiration for HTML, CSS, and web design with Lama and become a web developer. |
 | [Leigh Halliday](https://www.youtube.com/channel/UCWPY8W-FAZ2HdDiJp2RC_sQ) | Tutorials about JavaScript and React. |
+| [MeasureSchool](https://www.youtube.com/measureschool) | MeasureSchool shares technical digital marketing tutorials. Learn Google Analytics 4, Google Tag Manager, Looker Studio, and more for digital marketing deployment. |
 | [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA) | I train professional software engineers that companies love to hire. |
 | [Program With Erik](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw) | I do tutorials, advice and occasionaly I vlog! |
 | [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) | Learn programming, software engineering, machine learning and everything tech from this channel.  |
