@@ -425,6 +425,7 @@ It makes it easier for new people to find this repository.
 | [Ahmad Awais](https://www.youtube.com/channel/UCKJPVjhsLfzh1cJrUFF9jQg) | Learn with Awais |
 | [Ben Awad](https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw) | Videos about React, React Native, GraphQL, Typescript, Node.js, PostgreSQL, Python, and all things coding. |
 | [Better Dev](https://www.youtube.com/channel/UCmXVXfidLZQkppLPaATcHag) | CSS videos |
+| [ByteByteGo](https://www.youtube.com/@ByteByteGo) | System design fundamentals and backend engineering concepts explained through visual diagrams and animations. |
 | [Claudio Bernasconi](https://www.youtube.com/channel/UCTbHPk0bIOQwTXuGgD195bw) | Become a better (.NET) Software Engineer by improving your developer skills. It's hard to stand out as a developer. Make yourself the best version you can be. |
 | [CodeDamn](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ) | Videos mostly related to programming, and sometimes simple hacks and tricks to survive on internet! |
 | [CoderOne](https://www.youtube.com/channel/UCMm15RFnHUvM-aSc50e7R9A) | CoderOne is a Learning Channel For Web Development, Software Enginnering and Coding All in one place with a High quality Video/Written Tutorials along side a Learning Platform that allows you to dig deep and learn everything that comes new. |
