@@ -127,6 +127,7 @@ It makes it easier for new people to find this repository.
 | [Test Automation University](https://testautomationu.applitools.com/) | Become a test automation superstar - Free! |
 | [Udemy] (https://www.udemy.com) | Learn or teach on udemy.com |
 | [w3schools] (https://www.w3schools.com) | Learn to Code |
+| [Open Classrooms](https://openclassrooms.com/en) | 50+ free courses on software development topics, including web development with HTML, CSS, JavaScript, React.js, Django, accessibility etc.
 
 ## CSS
 
