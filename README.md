@@ -212,6 +212,7 @@ It makes it easier for new people to find this repository.
 | Resource | Description |
 | :--- | :--- |
 | [ColorAndFonts](https://www.colorsandfonts.com/) | Color and typography inspiration for Web Developers and Digital Designers |
+| [FontsWiki](https://fontswiki.com/) | Searchable font catalog with free alternatives, pairings, and real-world fonts-in-use references |
 | [Font Flipper](https://fontflipper.com/) | Add typography to an image |
 | [Fontjoy](https://fontjoy.com/) | Font pairing made simple |
 | [Google Fonts](https://fonts.google.com) | Fonts available from Google |
