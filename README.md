@@ -206,6 +206,7 @@ It makes it easier for new people to find this repository.
 | [Mycolor.space](https://mycolor.space/) | Never waste Hours on finding the perfect Color Palette again!  |
 | [Paletton](https://paletton.com/) | Creates color palette from a selected color |
 | [Stylify Me](http://stylifyme.com) | Get Color Palette from Websites |
+| [Sez](https://sez.c-sharptutorial.com/) | Upload HTML website themes to generate, preview, and apply color palettes instantly |
 
 ### Fonts
 
