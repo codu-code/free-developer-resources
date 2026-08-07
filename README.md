@@ -94,6 +94,7 @@ It makes it easier for new people to find this repository.
 | [Smashing Magazine](https://www.smashingmagazine.com/articles/) | Smashing Magazine - Articles, books, workshops, conferences, membership, job board, newsletter and more |
 | [Spotify Engineering](https://engineering.atspotify.com) | Read about the magic behind the music and more. Welcome to our official technology blog. |
 | [The Pragmatic Engineer](https://blog.pragmaticengineer.com) | Newsletter, books, jobs and talent collective |
+- [Clipy](https://clipy.online) — AI-native screen recorder for developers that records workflows and generates AI-readable Markdown reports for debugging, documentation, and collaboration.
 
 ## Books
 
