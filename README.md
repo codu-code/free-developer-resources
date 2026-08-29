@@ -287,6 +287,7 @@ It makes it easier for new people to find this repository.
 | [WireMock Cloud](https://app.wiremock.cloud/) | API Mocking Web App |
 | [Frontend Checklist](https://frontendchecklist.io/) | The Front-End Checklist Application is perfect for modern websites and meticulous developers! |
 | [iHateRegex](https://ihateregex.io/) | Regex Cheat Sheet |
+| [Nutilz](https://nutilz.com/) | 23+ free browser-based developer tools and utilities: regex tester, JSON formatter, unit converter, calculators, and generators. |
 | [Pastebin](https://pastebin.com) | Share snippets |
 | [GitHub](https://github.com) | GitHub is where over 100 million developers shape the future of software, together. |
 | [Grammarly](https://app.grammarly.com/) | Instantly generate clear, compelling writing while maintaining your unique voice. |
