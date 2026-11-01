@@ -282,6 +282,7 @@ It makes it easier for new people to find this repository.
 | Resource | Description |
 | :--- | :--- |
 | [Visual Studio Code](https://code.visualstudio.com/) |Code editing. Redefined. Free. Built on open source. Runs everywhere. |
+| [agent-qa](https://vostride.com) | Natural-language web and mobile QA with persistent memory and self-improvement. Free CLI; model/device costs apply. FSL-1.1-ALv2 restricts competing commercial use. |
 | [Postman](https://www.postman.com/) | API Testing Client |
 | [Insomnia](https://insomnia.rest/) | API Testing Client |
 | [WireMock Cloud](https://app.wiremock.cloud/) | API Mocking Web App |
