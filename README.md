@@ -291,6 +291,7 @@ It makes it easier for new people to find this repository.
 | [GitHub](https://github.com) | GitHub is where over 100 million developers shape the future of software, together. |
 | [Grammarly](https://app.grammarly.com/) | Instantly generate clear, compelling writing while maintaining your unique voice. |
 | [Stack Overflow](https://stackoverflow.com/) | Every developer/data scientist/system admin/mobile developer/game developer has a tab open to Stack Overflow |
+| [DecimalTools Hex to Decimal](https://decimaltools.com/tools/hexa-to-decimal) | Free hex converter with signed and unsigned output, selectable bit depth, byte order controls, and binary/octal previews; no account required. |
 
 ### Authentication
 
